@@ -1,0 +1,13 @@
+{
+  "name": "ruinshows",
+  "version": "0.0.1",
+  "private": true,
+  "author": "Mehul Patel <mehul8@gmail.com> (http://mehul.codes/)",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react": "15.2.0",
+    "react-native": "0.28.0"
+  }
+}
